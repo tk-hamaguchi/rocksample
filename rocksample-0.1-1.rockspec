@@ -1,7 +1,7 @@
 package = "rocksample"
 version = "0.1-1"
 source = {
-    url = "https://github.com/tk-hamaguchi/rocksample/archive/rocksample-0.1.tar.gz"
+    url = "https://github.com/tk-hamaguchi/rocksample/raw/master/pkg/rocksample-0.1.tar.gz"
 }
 description = {
     homepage = "https://github.com/tk-hamaguchi/rocksample/",
