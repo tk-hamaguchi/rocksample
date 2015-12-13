@@ -6,8 +6,12 @@ RockSample = {
     setFuga = function(self, fugaga)
         self.class_val = fugaga
     end,
-    moke = function(self)
+    moke1 = function(self)
         return "mokemoke!"
+    end,
+    moke2 = function(self)
+        local rs = self.new("MOMOMO")
+        return rs.hoge()
     end
 }
 
