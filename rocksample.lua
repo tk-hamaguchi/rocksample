@@ -21,3 +21,5 @@ RockSample.new = function(name)
 end
 
 require "rocksample/world"
+
+return RockSample
