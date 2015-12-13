@@ -1,4 +1,4 @@
-local function world()
+function world()
     print( 'hello world' );
 end
 
