@@ -1,5 +1,5 @@
-local function hello()
+local function rocksample()
     print( 'hello' );
 end
 
-return hello;
+return rocksample;
