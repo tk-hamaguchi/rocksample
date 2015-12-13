@@ -20,4 +20,4 @@ RockSample.new = function(name)
     return obj
 end
 
-require "lib/world"
+require "rocksample/world"

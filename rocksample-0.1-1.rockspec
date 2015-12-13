@@ -12,6 +12,6 @@ build = {
     type = "builtin",
     modules = {
         rocksample = "rocksample.lua",
-        ["rocksample.world"] = "lib/world.lua"
+        ["rocksample.world"] = "rocksample/world.lua"
     }
 }
